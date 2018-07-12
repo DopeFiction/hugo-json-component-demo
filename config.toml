@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://hardcore-knuth-fc0978.netlify.com/"
 languageCode = "en-us"
 title = "JSON API Component Demo"
 
