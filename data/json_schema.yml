@@ -1,0 +1,16 @@
+garage:
+  list:
+    fields:
+      - field: year
+      - field: make
+      - field: model
+  single:
+    fields:
+      - field: title
+        key: name
+      - field: year
+      - field: make
+      - field: model
+      - field: engine
+      - field: $PAGECONTENT
+        key: description

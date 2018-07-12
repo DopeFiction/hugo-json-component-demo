@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "JSON API Component Demo"
+
+theme = ["paper","json-api"]
+[outputs]
+    page = ["html","json"]
+    section = ["html","json"]
